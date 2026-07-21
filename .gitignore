@@ -1,0 +1,19 @@
+# Gerbers and drill files (regenerate from KiCad anytime)
+*.gbr
+*.drl
+*.gbrjob
+
+# Backups
+*-backups/
+*.bak
+
+# KiCad cache/lock files
+*.kicad_prl
+fp-info-cache
+*.lck
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+.history/
